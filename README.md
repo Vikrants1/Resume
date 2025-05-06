@@ -17,14 +17,15 @@ This repository contains the latest version of my professional resume.
 - 🔗 Linkedin-www.linkedin.com/in/vikrant-s-66ab2a363
 
   Course certificate
--Developer	and	Technology	Job	Simulation-Accenture(Forage)
--Computer Networking-Illinois Tech
-- Introduction to DevOps-IBM
--Business for Good: Fundamentals of Corporate
- Responsibility-London business school
--AI And Machine Learning Full Course | Artificial
- -Intelligence & Machine Learning Course |
- Simplilearn-IBM skils build
-
+|Developer	and	Technology	Job	Simulation-Accenture(Forage)|
+|Computer Networking-Illinois Tech|
+|Introduction to DevOps-IBM|
+|Business for Good: Fundamentals of Corporate
+ Responsibility-London business school|
+|AI And Machine Learning Full Course  Artificial
+  Intelligence & Machine Learning Course 
+ Simplilearn-IBM skils build|
+  |Introduction to Computers and Operating Systems
+ and Security-Microsoft|
 
   *Thank you for visiting my resume repository! Feel free to connect with me"
